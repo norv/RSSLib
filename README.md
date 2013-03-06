@@ -16,7 +16,7 @@ The project in licensed under the GNU GPL v3, so you may fork the project and ch
 
 ### License
 
-_Copyright (C) 2013 Scotty Christianson (The Craw)
+Copyright (C) 2013 Scotty Christianson (The Craw)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -32,4 +32,4 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 This license, and the copyright above must remain in the file, and in
-any derivative works._
+any derivative works.
